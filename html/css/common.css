@@ -1,0 +1,150 @@
+			body {
+				width:  100%;
+				margin: 0;
+				padding: 0;
+				color:  #e6e6fa;
+				font-family:  arial, sans-serif;
+				/*  line-height: 18px;
+				/*background:  #fff0f5;*/
+				background:url(../images/pattern.jpg);
+				background:  linear-gradient(#fff999,#ff0000);
+
+			}
+
+
+
+
+			div{
+				color: #FF1493;
+				width: 500px;
+				margin-top:20px;
+				margin-right:auto;
+				margin-left:auto;
+				overflow: hidden;
+			}
+			#container {
+				width: 960px;
+				margin:  0 auto;
+				padding: 30px;
+				background:  #fff8dc;
+			}
+			header {
+				padding: 30px;
+				background: #ffffff;
+				#ffffff;
+				background:  linear-gradient(to bottom right, #fcc,#cf6 20%,#3cc 40%,#000 70%);
+				
+				color: #fff0f5
+				text-align: center;
+
+			}
+			footer {
+				font: bold 80%/1em sans-serif;
+				color: #ffffff;
+				text-align:  center;
+				padding: 10px;
+				background:  radial-gradient(circle at center,#9ff 20%,#9f0 40%,#ff9 100%);
+			}
+			h1 {
+				font-weight: bold;
+				font-size: 240%;
+			}
+			span {
+			color:#ffffff;
+			}
+			img{
+				float:left;
+				margin-right: 10px
+			}
+
+			h1 {
+				color:#ffffff
+				font-size:39px;
+
+			}
+			h2 {
+				clear: both;
+			}
+			a {
+			font-size: 150%;
+			font-weight: bold;
+			color: #ff6666;
+			text-decoration: none;
+			}
+
+			a:link {
+				color: green;
+			}
+			a:visited {
+				color: red;
+			}
+			a:hover {
+				color:  #9900ff;
+				flex-direction: none;
+				font-style: italic;
+			}
+			a:active{
+
+				color: blue;
+			}
+			.btn {
+				display:  inline-block;
+			}
+			.btn a {
+				background: url(../images/button.gif) no-repeat left top;
+				width: 140px;
+				height:  36px;
+				display:  block;
+				color: red;
+				font-style:  15px;
+				line-height:  36px;
+				text-align:  center;
+			}
+			.btn a:hover {
+				background: url(../images/button.gif) no-repeat right top;
+			}
+			div.main{
+				width:70%;
+				float:left;
+			}
+			div.sidebar{
+				width: 30%;
+				float: left;
+
+			}
+			dl.sidemenu{
+    margin: 0px;
+    padding: 0px 0px 5px;
+    background: #DFF4E7;
+    width: 240px;
+}
+dl.sidemenu dt {
+    background: url(../images/dt_bg.jpg) repeat-x;
+    height: 32px;
+    width: 240px;
+    font-size: 15px;
+    line-height: 32px;
+    font-weight: bold;
+    color: #FFF;
+    text-indent: 0.7em;
+    margin-bottom: 5px;
+}
+dl.sidemenu dd {
+    font-size: 12px;
+    line-height: 18px;
+    height: 18px;
+    text-indent: 0.7em;
+    margin: 0px;
+    padding-bottom: 5px;
+}
+dl.sidemenu dd a {
+    color: #666;
+    background: url(../img/dd_bg.gif) no-repeat 0px 0px;
+    text-decoration: none;
+    padding-left: 14px;
+}
+dl.sidemenu dd a:hover {
+    color: #F90;
+    background: url(../img/dd_bg.gif) no-repeat 2px 0px;
+}
+			

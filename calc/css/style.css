@@ -1,0 +1,92 @@
+#calc { 
+width: 208px;
+overflow: hidden;
+background-color:　#444; 
+margin: 0 auto;
+font-size: x-large;
+background-image: url(../images/LA.jpg);
+line-height: 2.2em;
+background-size: 350px;
+background-position: 50% 60%; 
+color: white;
+
+}
+#calc .result {
+	width: 100%;
+	height: 100px;
+	text-align: right;
+	background-image: url(../images/LA.jpg);
+	font-size: 2em;
+	line-height: 1.5em;
+	padding-right: .2em;
+	box-sizing: border-box;
+	background-color: red;
+	background-size: 215px;
+
+
+}
+#calc .button {
+	width: 50px;
+	height: 50px;
+	background-color: transparent;
+	float: left;
+	border: 1px solid #bbb;
+	text-align: center;
+	cursor: pointer;
+	background-color: pink;
+	
+}
+#calc .aaa{
+	color: purple;
+	background-color: beige;
+
+	}
+#calc .bbb{
+	color: purple;
+	background-color: beige;
+}
+#calc .ccc{
+	color: purple;
+  background-color: beige;
+}
+#calc .ddd{
+color: purple;
+  background-color: beige;
+}
+#calc .fff{
+color: purple;
+  background-color: beige;
+
+}
+#calc .eee{
+color: purple;
+  background-color: beige;
+
+}
+#calc .ggg{
+color: purple;
+  background-color: beige;
+
+}
+#calc .hhh{
+	color: purple;
+  background-color: beige;
+}
+#calc .iii{
+color: purple;
+  background-color: beige;
+	
+}
+#calc .jjj{
+color: purple;
+  background-color: beige;
+
+}
+
+
+
+
+}
+#calc .button:active {
+background-color: #888;
+}
