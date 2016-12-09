@@ -1,0 +1,11 @@
+.trimming{
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+	position:relative;
+}
+.trimming img {
+	position: absolute;
+	top: -8px;
+	left: -30px;
+}

@@ -1,0 +1,91 @@
+.massage {
+	font-size:  30px;
+	padding: -7px;
+	}
+	.top {
+		width: 1400px;
+		height: 500px;
+		padding-right: 900px; 	
+	}
+	.tinko {
+	width: 30em;
+	height: 3em;
+	opacity: 0.7;
+	position: relative;
+top: -30px;
+
+	}
+	.address {
+width: 30em;
+	height: 3em;
+	opacity: 0.7;
+	position: relative;
+top: 2px;
+left: -2px;
+	}
+	.password {
+		width: 30em;
+	height: 3em;
+	opacity: 0.7;
+	position: relative;
+top: 2px;
+left: 2px;
+}
+.button {
+	color: red;
+}
+.button1 {
+	color: white;
+	background-color: blue;
+}
+.button2 {
+	background-color: red;
+	color: white;
+}
+.button3 {
+	background-color: lightblue  
+}
+div.img-move a:active {
+ position: relative;
+ top: 5px;
+ left: 5px;
+}
+img {
+position: relative;
+top: 2px;
+left: 2px;
+text-decoration: none;
+text-align: center;
+} 
+.okama {
+	text-align: center;
+	position: relative;
+	top: -1000px;
+	padding-right: 5px; 
+}
+.okama2 {
+text-align: center;
+margin: 100px;
+padding-right: -20px;
+position:  relative;
+top: -1030px;
+}
+.okama3 {
+	text-align: center;
+	margin: 100px;
+padding-right: -20px;
+position:  relative;
+top: -1030px;
+}
+.right {
+	text-align: right;
+	position: relative;
+	top: -700px;
+	font-size: 20px;
+}
+th {
+	font-size: 20px;
+}
+
+
+
